@@ -36,9 +36,6 @@ Salary.ipynb  -  An analysis of the variables that are related to salary and job
 
 Salary_ML.py  -  A python script that builds a Linear Regression model to predict salary.
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
-
-
 
 ## Results<a name="results"></a>
 
